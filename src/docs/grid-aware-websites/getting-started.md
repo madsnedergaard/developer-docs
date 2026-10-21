@@ -21,7 +21,7 @@ You can check whether or not you have Node installed by running `node --version`
 
 ### Electricity Maps API
 
-You will also require an API key to access the [Electricity Maps API](https://api-portal.electricitymaps.com/).
+You will also require an API key to access the [Electricity Maps Carbon Intensity Level API](https://www.thegreenwebfoundation.org/news/a-new-api-for-grid-aware-websites-and-beyond/), which is free to use for all regions.
 
 {% include 'partials/gaw-emaps-note.njk' %}
 
